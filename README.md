@@ -4,7 +4,7 @@
 📖 reader & writer at heart · 🌸 obsessed with all things pink<br>
 🌿 happiest with my laptop outside, coding under a tree<br>
 🎬 rom-com romantic · a little whimsical, a little chaotic
-
+✿ ⋆｡˚ ✧
 ### what i build with
 ![Python](https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=5c374c) ![JavaScript](https://img.shields.io/badge/JavaScript-FFE5B4?style=for-the-badge&logo=javascript&logoColor=5c374c) ![HTML5](https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=5c374c) ![CSS3](https://img.shields.io/badge/CSS3-D4A5C4?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-E8B4BC?style=for-the-badge&logo=git&logoColor=5c374c) ![Figma](https://img.shields.io/badge/Figma-C9A9D9?style=for-the-badge&logo=figma&logoColor=white) ![C](https://img.shields.io/badge/C-F5E1DA?style=for-the-badge&logo=c&logoColor=5c374c) ![Adobe](https://img.shields.io/badge/Adobe-EAC7C7?style=for-the-badge&logo=adobe&logoColor=5c374c)
 <!--
