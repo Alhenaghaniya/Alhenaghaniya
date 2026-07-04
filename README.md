@@ -4,6 +4,9 @@
 📖 reader & writer at heart · 🌸 obsessed with all things pink<br>
 🌿 happiest with my laptop outside, coding under a tree<br>
 🎬 rom-com romantic · a little whimsical, a little chaotic
+
+### what i build with
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **Alhenaghaniya/Alhenaghaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
