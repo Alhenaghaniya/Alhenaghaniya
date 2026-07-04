@@ -1,11 +1,15 @@
-# Hi, I'm Hina 👋
+# Hi, I'm Hina 🧸
+
+22, curious, and building things with AI ✨
+📖 reader & writer at heart · 🌸 obsessed with all things pink
+🌿 happiest with my laptop outside, coding under a tree
+🎬 rom-com romantic · a little whimsical, a little chaotic
 
 <!--
 **Alhenaghaniya/Alhenaghaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
